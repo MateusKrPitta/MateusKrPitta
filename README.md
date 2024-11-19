@@ -1,33 +1,25 @@
-👨‍💻 Mateus Kronbauer Pitta
-Engenheiro de Software | Desenvolvedor Web
+### Olá! Eu sou o Mateus Kronbauer Pitta 👋
 
-Bem-vindo ao meu perfil no GitHub! 🚀
-Sou apaixonado por tecnologia e desenvolvimento de software, com quase 2 anos de experiência como desenvolvedor web e 4 anos na área de TI. Minha missão é transformar ideias em soluções eficientes e elegantes, sempre focando em qualidade e usabilidade.
+[![Blog](https://img.shields.io/website?label=Mateus.com&style=for-the-badge&url=https://portifolio-five-pearl.vercel.app/)](https://mateuskrp.github.io/Portifolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuskronbauerr/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pitta/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.mateuspitta@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5567999282807?text=Ol%C3%A1%20gostaria%20de%20conversar%20com%20Mateus%20Pitta!%20)
 
-🔧 Tecnologias e Ferramentas
-Linguagens: JavaScript, TypeScript
-Frameworks/Bibliotecas: React, Sass, CSS
-Mobile: Flutter
-Outras Ferramentas: Git, Material-UI, Styled-Components
-🧑‍💻 Sobre Mim
-🎓 Formação: Engenheiro de Software pela UNIGRAN
-💼 Atuação: Desenvolvedor Web com foco em soluções front-end
-🌱 Habilidades: Criação de interfaces intuitivas, integração de APIs, otimização de performance e boas práticas de design responsivo
-Adoro aprender novas tecnologias e estou sempre aberto a desafios que expandam minhas capacidades.
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuskrpitta&show_icons=true&theme=dracula)
 
-📂 Principais Projetos
-🌟 [Projeto 1: Nome do Projeto]
-Descrição: Breve explicação do projeto.
-Tecnologias: React, TypeScript, CSS.
-🔗 Acesse o repositório
-🌟 [Projeto 2: Nome do Projeto]
-Descrição: Breve explicação do projeto.
-Tecnologias: Flutter, Sass, JavaScript.
-🔗 Acesse o repositório
-🎯 Meu Objetivo
-Continuar desenvolvendo soluções impactantes que façam a diferença. Colaborar em projetos desafiadores que possibilitem o crescimento pessoal e profissional, explorando sempre o estado da arte em desenvolvimento de software.
+### Tecnologias que utilizo no meu dia
 
-📬 Entre em Contato
-LinkedIn: Seu Perfil no LinkedIn
-E-mail: SeuEmail@exemplo.com
-“A tecnologia é apenas uma ferramenta. O que importa são as pessoas e o impacto que podemos causar.” 🚀
+<div style="display: inline_block"><br/>
+<img  align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img  align="center" alt="CSS3" src="    https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img  align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBlogoColor=white" />
+<img  align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img  align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img  align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img  align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img  align="center" alt="Material-UI" src="    https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+
+
+</div>
